@@ -19,8 +19,8 @@ bld/
 [Bb]in/
 [Oo]bj/
 
-# Roslyn cache directories
-*.ide/
+# VS2015 symbol cache
+*.vs/
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
